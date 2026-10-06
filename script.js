@@ -69,7 +69,8 @@ const perguntas = [
                 texto:"Criar uma imagem utilizando um gerador de imagem de IA.",
                 afirmacao: ["Acelerou o processo de criação de trabalhos utilizando geradores de imagem e agora consegue ensinar pessos que sentem dificuldades em desenhar manualmente como utilizar também!",
                     "sociais como forma de ensinar como se comunicar através da arte.",
-                    ""
+                    "Percebeu que muitas pessoas têm dificuldade em expressar suas ideias desenhando    "
+                ]
             }
             
         ]
